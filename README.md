@@ -6,3 +6,4 @@
 3.switch(operator) для +-*/(https://learn.javascript.ru/switch)
 4.Когда вешать обработчики и зачем.(https://learn.javascript.ru/introduction-browser-events)
 5.«pure functions» в JavaScript(нельзя чтобы функции зависели от внешних переменных)
+6.Делегирование событий https://learn.javascript.ru/event-delegation
